@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When the cat's away, mice will play
 Use the left arrow to go back!
